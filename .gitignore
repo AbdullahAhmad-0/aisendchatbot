@@ -1,0 +1,5 @@
+credentials.txt
+venv
+.vscode
+.idea
+openai api.txt
